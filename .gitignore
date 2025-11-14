@@ -1,0 +1,17 @@
+# Python
+_pycache_/
+*.py[cod]
+venv/
+.env
+*.egg-info/
+
+# Pygame, media
+*.wav
+*.ogg
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
